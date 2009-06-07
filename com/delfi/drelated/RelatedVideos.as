@@ -227,12 +227,12 @@ public class RelatedVideos extends MovieClip implements PluginInterface {
 		SpaceFromSides = (this.stage.stageWidth-SpaceNeeded)/2;
 		
 		//Mask the clipcontainer object
-/*		var square:Sprite = new Sprite();
+		var square:Sprite = new Sprite();
 		square.graphics.beginFill(0xFF0000);
 		square.graphics.drawRect(SpaceFromSides, 0, SpaceNeeded, this.stage.stageHeight);
 		clip.addChild(square);			
 		_container.mask = square;
-*/	}
+	}
 	
 	/** Slide the plugin to the center stage when the movie is paused or complete. **/	
 	private function SlideMe(showMe:Boolean):void{
