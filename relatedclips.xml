@@ -5,30 +5,36 @@
 		<title>Clip1</title>
 		<thumb>thumbs/video1.jpg</thumb>
 		<url>http://www.gness.net</url>		
+		<file>http://somewhere.com/something.flv</file>
 	</video>
 	<video id="002">
 		<title>Clip2</title>
 		<thumb>thumbs/video2.jpg</thumb>
 		<url>http://www.delfi.ee</url>		
+		<file>http://somewhere.com/something.flv</file>
 	</video>
 	<video id="003">
 		<title>Clip3</title>
 		<thumb>thumbs/video3.jpg</thumb>
 		<url>http://www.delfi.tv</url>		
+		<file>http://somewhere.com/something.flv</file>
 	</video>
 	<video id="004">
 		<title>Clip4</title>
 		<thumb>thumbs/video4.jpg</thumb>
 		<url>http://www.publik.ee</url>		
+		<file>http://somewhere.com/something.flv</file>
 	</video>
 	<video id="005">
 		<title>Clip5</title>
 		<thumb>thumbs/video5.jpg</thumb>
 		<url>http://www.publik.ee</url>		
+		<file>http://somewhere.com/something.flv</file>
 	</video>
 	<video id="006">
 		<title>Clip4</title>
 		<thumb>thumbs/video6.jpg</thumb>
 		<url>http://www.publik.ee</url>		
+		<file>http://somewhere.com/something.flv</file>
 	</video>
 </videolist>
